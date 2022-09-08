@@ -1,0 +1,41 @@
+<resources>
+    <string name="titulo">Exact Place</string>
+    <string name="busca">Buscar</string>
+    <string name="vltinicio">Início</string>
+    <string name="comeco">Iniciar</string>
+    <string name="volta">Voltar</string>
+    <string name="creditos">Créditos</string>
+    <string name="quit">Sair</string>
+    <string name="hub">Menu</string>
+    <string name="IG">Insta Gui</string>
+    <string name="IA">Insta Art</string>
+    <string name="choose">Escolha seu Modo!</string>
+    <string name="BussolaB">Bússola Bacana</string>
+    <string name="perguntados">Quiz</string>
+    <string name="locale">Localizador de Endereço</string>
+    <string name="rosa">Bússola</string>
+    <string name="aqui">Você está Aqui!</string>
+    <string name="recover">Recuperar</string>
+    <string name="filme">Gravar</string>
+    <string name="Q1">Quiz - Pergunta 1</string>
+    <string name="Q2">Quiz - Pergunta 2</string>
+    <string name="pergunta1">Qual lugar de São Paulo possui as seguintes coordenadas: 23.5874° S, 46.6576° W</string>
+    <string name="pergunta2">Qual lugar do Mundo possui as seguintes coordenadas: 40.68989° N, -74.04453° O</string>
+    <string name="ibira">Parque do Ibirapuera</string>
+    <string name="Corintians">Estádio do Pacaembu</string>
+    <string name="estatuaborbinha">Estátua Borba Gato</string>
+    <string name="masip">MASP - Museu de Arte de São Paulo</string>
+    <string name="franca">Arco do Triunfo</string>
+    <string name="brasil">Cristo Redentor</string>
+    <string name="freedom">Estátua da Liberdade</string>
+    <string name="india">Taj Mahal</string>
+    <string name="devolops">Desenvolvedores:</string>
+    <string name="art">Arthur Martos Dias</string>
+    <string name="gui">Guilherme Santos da Costa</string>
+    <string name="thurma">Turma:</string>
+    <string name="aline">Prof. Aline</string>
+    <string name="doismil">Ano: 2022</string>
+    <string name="terceiro">3º ano Jogos Digitais</string>
+    <string name="app_name">Exact Place</string>
+
+</resources>
